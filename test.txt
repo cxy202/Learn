@@ -1,0 +1,3 @@
+你好
+first change
+second change --没有添加到暂存区
